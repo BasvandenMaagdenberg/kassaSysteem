@@ -1,0 +1,15 @@
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\bin\Debug\net5.0\FancyCashRegister.Services.deps.json
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\bin\Debug\net5.0\FancyCashRegister.Services.dll
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\bin\Debug\net5.0\ref\FancyCashRegister.Services.dll
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\bin\Debug\net5.0\FancyCashRegister.Services.pdb
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\bin\Debug\net5.0\FancyCashRegister.Domain.dll
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\bin\Debug\net5.0\FancyCashRegister.Domain.pdb
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.csprojAssemblyReference.cache
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.AssemblyInfoInputs.cache
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.AssemblyInfo.cs
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.csproj.CoreCompileInputs.cache
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.csproj.CopyComplete
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.dll
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\ref\FancyCashRegister.Services.dll
+C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Services\obj\Debug\net5.0\FancyCashRegister.Services.pdb
