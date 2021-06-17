@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mMOGYGSc1udSg6pd5LNTEEMXVXhNBAAi296Qfherr1/bpW46PM2Ix43GLlXJg45cBgq0mjxdm8F0R1i2POrDrA==",
+  "dgSpecHash": "iLn/M8Ox4rx4+CXhNnma2QS8+A1Hltuvp1+uK4M84otaO8kyXdrmlMOwo1vXsLuiPmbPpWT2wy7KgzZp9aYgiQ==",
   "success": true,
-  "projectFilePath": "C:\\temp\\applicatie\\FancyCashRegister\\FancyCashRegister.Domain\\FancyCashRegister.Domain.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\kassaSysteem\\applicatie\\FancyCashRegister\\FancyCashRegister.Domain\\FancyCashRegister.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

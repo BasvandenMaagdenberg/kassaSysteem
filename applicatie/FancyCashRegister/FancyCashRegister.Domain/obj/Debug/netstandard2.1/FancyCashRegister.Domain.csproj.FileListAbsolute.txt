@@ -7,3 +7,12 @@ C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstand
 C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.csproj.CoreCompileInputs.cache
 C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.dll
 C:\temp\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.pdb
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\bin\Debug\netstandard2.1\FancyCashRegister.Domain.deps.json
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\bin\Debug\netstandard2.1\FancyCashRegister.Domain.dll
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\bin\Debug\netstandard2.1\FancyCashRegister.Domain.pdb
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.csprojAssemblyReference.cache
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.AssemblyInfo.cs
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.dll
+C:\xampp\htdocs\kassaSysteem\applicatie\FancyCashRegister\FancyCashRegister.Domain\obj\Debug\netstandard2.1\FancyCashRegister.Domain.pdb

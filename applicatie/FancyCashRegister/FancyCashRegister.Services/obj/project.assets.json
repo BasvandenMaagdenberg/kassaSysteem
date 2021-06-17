@@ -855,28 +855,20 @@
     ]
   },
   "packageFolders": {
-    "e:\\Users\\SD-01\\.nuget\\packages\\": {},
-    "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\anwar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\applicatie\\FancyCashRegister\\FancyCashRegister.Services\\FancyCashRegister.Services.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\kassaSysteem\\applicatie\\FancyCashRegister\\FancyCashRegister.Services\\FancyCashRegister.Services.csproj",
       "projectName": "FancyCashRegister.Services",
-      "projectPath": "C:\\temp\\applicatie\\FancyCashRegister\\FancyCashRegister.Services\\FancyCashRegister.Services.csproj",
-      "packagesPath": "e:\\Users\\SD-01\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\applicatie\\FancyCashRegister\\FancyCashRegister.Services\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\kassaSysteem\\applicatie\\FancyCashRegister\\FancyCashRegister.Services\\FancyCashRegister.Services.csproj",
+      "packagesPath": "C:\\Users\\anwar\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\kassaSysteem\\applicatie\\FancyCashRegister\\FancyCashRegister.Services\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "e:\\Users\\SD-01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\anwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -889,8 +881,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\temp\\applicatie\\FancyCashRegister\\FancyCashRegister.Domain\\FancyCashRegister.Domain.csproj": {
-              "projectPath": "C:\\temp\\applicatie\\FancyCashRegister\\FancyCashRegister.Domain\\FancyCashRegister.Domain.csproj"
+            "C:\\xampp\\htdocs\\kassaSysteem\\applicatie\\FancyCashRegister\\FancyCashRegister.Domain\\FancyCashRegister.Domain.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\kassaSysteem\\applicatie\\FancyCashRegister\\FancyCashRegister.Domain\\FancyCashRegister.Domain.csproj"
             }
           }
         }
@@ -925,7 +917,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
